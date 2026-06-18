@@ -120,7 +120,22 @@
 
 <!-- 👨‍💻 Proyects -->
 ## Proyects
+### 📞 Call Center Analytics & Optimization (Scrum Case Study)
+> **Descripción:** Proyecto final desarrollado bajo el marco de trabajo **Scrum**, enfocado en la optimización y análisis de métricas clave (KPIs) en un entorno de Call Center para la toma de decisiones estratégicas.
 
+<div align="center">
+  <!-- Reemplaza esta URL por una captura de pantalla de tu dashboard/proyecto cuando la tengas -->
+  <img src="https://raw.githubusercontent.com/GuillermoSuero/Caso_Call_Center/main/Anexos/Dashboard_CallCenter_Preview.png" alt="Call Center Analytics Preview" width="100%" style="border-radius: 8px; max-width: 750px;"/>
+</div>
+
+* **Key Features:** Modelado de datos e indicadores operativos, aplicación práctica de metodologías ágiles (marcos Scrum) y diseño de reportes analíticos.
+* **Tech Stack:** `Power BI` | `SQL` | `Data Analytics` | `Scrum Methodology`
+
+<p align="center">
+  <a href="https://github.com/GuillermoSuero/Caso_Call_Center" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
 
 ---
 </p>
