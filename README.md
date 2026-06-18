@@ -1,10 +1,14 @@
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&fontColor=ffffff&text=Guillermo%20Suero&height=160&fontSize=50&desc=Data%20Analyst%20%20%7C%20%20Data%20Engineer%20Jr&descColor=d1d5db&descSize=16&fontAlignY=45&descAlignY=75" alt="Guillermo Suero Header" />
+</div>
+
+<div align="center">
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=4EF0B7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Guillermo+Suero;Industrial+Engineer+%7C+Data+Analyst;Business+Intelligence+%7C+Automation;Transforming+data+into+decisions" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Data+Engineering+%26+Cloud+Data;Business+Intelligence+%7C+Power+BI;Automation+%26+Data+Storytelling;Transforming+Data+into+Decisions" alt="Typing SVG" />
     </a>
 </div>
 
@@ -21,12 +25,12 @@
 
 ## 👤 About Me
 
-- Industrial engineer with professional experience in data analysis, data engineering and big data.
-- Professional experience in Banking, Insurance, and IT sectors, focusing on process optimization and data governance
-- Specialized in Data Analytics and Cloud Data Engineering, building scalable ETL/ELT pipelines and managing data lineage within Data Lakehouse environments
-- Core focus on Business Intelligence, process automation, and Data Storytelling to transform complex data into actionable corporate decisions
-- Technical expertise in cloud and data platforms including Databricks, PySpark, Azure Data Factory, SQL, and Power BI
-- Certificate of proficiency level B1 in conversational and written English by ICPNA
+- Data professional with professional experience in data analysis, data engineering and big data.
+- Extensive background across the Banking, Insurance, and IT sectors, focusing on process optimization and data governance.
+- Specialized in Cloud Data Engineering, building scalable ETL/ELT pipelines and managing data lineage within Data Lakehouse environments.
+- Core focus on Business Intelligence, process automation, and Data Storytelling to transform complex data into actionable corporate decisions.
+- Technical expertise in cloud and data platforms including Databricks, PySpark, Azure Data Factory, SQL, and Power BI.
+- Advanced certificate of English proficiency by ICPNA.
 
 ---
 
@@ -120,7 +124,7 @@
 
 ## ✉️ Contact Me
 
-¡Siempre abierto a conectar, colaborar en proyectos de datos o conversar sobre tecnología! Siéntete libre de escribirme por cualquiera de estos canales:
+Always open to connecting, collaborating on data projects, or sharing insights about tech! Feel free to reach out through any of these channels:
 
 <table align="center">
   <tr>
@@ -151,6 +155,6 @@
 <br>
 
 <p align="center">
-  Developed by <a href="https://github.com/GuillermoSuero">Guillermo Moisés Suero de la Cruz</a><br>
-  Last updated: June 2026
+  Developed by: <a href="https://github.com/GuillermoSuero">Guillermo Moisés Suero de la Cruz </a> <br>
+  Last updated: June 2026  <br>
 </p>
