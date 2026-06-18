@@ -71,11 +71,9 @@
 
 <div align="center">
   <h3>Automation & Integration</h3>
-  <img src="https://github.com/user-attachments/assets/466fdddb-4db3-4044-a7d9-370ef4a33096" width="45" alt="image" />
   <img src="https://github.com/user-attachments/assets/1a015d57-03a1-485f-9d36-7c163abff452" width="45" alt="image" />
   <img src="https://github.com/user-attachments/assets/d446bfb2-f833-4eb6-b833-7dec4767b9cd" width="45" alt="image" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="45" title="Visual Studio Integration Services"/>
-  <img src="https://github.com/user-attachments/assets/b257965f-7466-4c57-96e8-4c2f20702ee4" width="45" alt="image" />
 </div>
 
 <br>
