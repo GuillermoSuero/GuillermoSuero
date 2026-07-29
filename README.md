@@ -102,7 +102,7 @@
 
 ## 👨‍💻 Projects
 
-### 📞 Enterprise Call Center Data Pipeline (ETL)
+### 📞 Proyecto: Automatización Call Center - Data Pipeline (ETL)
 > **Descripción:** Pipeline de ingeniería de datos (ETL) modular diseñado para consolidar, limpiar y transformar métricas transaccionales de telefonía y perfiles comerciales de un CRM del rubro Seguro/Banca. El flujo implementa reglas de negocio complejas para auditoría de calidad de datos, sanitización de números telefónicos mediante expresiones regulares (Regex), y la automatización de KPIs operativos críticos (`AHT`, `Tasa de Abandono`).
 
 <div align="center">
